@@ -1,0 +1,47 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Ccino",
+      "type": "cat",
+      "features": [
+        "fluffiness",
+        "cuteness",
+        "liveliness"
+      ],
+      "age": "4m"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "type": "dog",
+      "features": [
+        "cheekiness",
+        "stoicism",
+        "longness"
+      ],
+      "age": "7y"
+    },
+    {
+      "id": 3,
+      "name": "Malia",
+      "type": "dog",
+      "features": [
+        "friendliness",
+        "cuteness",
+        "hungriness"
+      ],
+      "age": "3y"
+    },
+    {
+      "id": 5,
+      "name": "gracie",
+      "type": "dog",
+      "features": [
+        "alertedness",
+        "tinyness"
+      ],
+      "age": "7"
+    }
+  ]
+}
